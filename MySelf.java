@@ -1,3 +1,4 @@
+/* Write a program to introduce myself.*/
 public class MySelf
 {
     public static void main(String[] arg)
