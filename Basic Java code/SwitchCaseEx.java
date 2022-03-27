@@ -49,7 +49,7 @@ public class SwitchCaseEx {
 				System.out.println("December");
 				break;
 			default:
-				System.out.println("No such month for "+month);
+				System.out.println("No such month for " +month);
 		}
 
 	}
