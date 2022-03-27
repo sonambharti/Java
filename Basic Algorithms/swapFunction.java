@@ -31,7 +31,7 @@ public class Swaping {
 		
 		int res[]=swap(a,b);
 		
-		System.out.println("After swapping value of a: " + res[0] +" and b is: " +res[1]);
+		System.out.println("After swapping value of a: " + res[0] +" and b is: " + res[1]);
 		
 				
 	}
